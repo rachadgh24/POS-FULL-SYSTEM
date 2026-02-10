@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193397693458",
+    "project_id": "supermarket244-c0de3",
+    "storage_bucket": "supermarket244-c0de3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193397693458:android:2b19866abfe37b91bd8ccb",
+        "android_client_info": {
+          "package_name": "com.example.localmartpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzlbDoAYMJq_dcYAGKR-DyBhBsT-oL6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
